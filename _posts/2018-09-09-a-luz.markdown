@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "A Luz"
+date:   2018-09-09 -0300
+categories: jekyll update
+comments: false
+---
+
+![The Light in use](https://vignette.wikia.nocookie.net/wowwiki/images/3/34/HolyLightTCG.jpg/revision/latest?cb=20121221055707)
+
+## Introdução
+
+No universo de World of Warcraft há várias forças das quais os seus seres podem se utilizar. Alguns exemplos são O Fel, ou magia vil, que usa a vida como forte de poder, ou O Arcano, usado pelos Titãs para ordenar o Universo na sua criação. A Luz é mais uma dessas forças do universo.
+
+## A Luz em Azeroth
+
+### Observação
+
+Em se tratando de como A Luz chegou a Azeroth, eu assumirei o que eu vou chamar de 'Teoria das forças comuns', onde considera-se A Luz como uma força comum que pode ser descoberta e usada, assim como O Arcano usado pelos Titãs ou o Fel usado pelos Demonios.
+
+### Os Sacerdotes
+
+![Priest icon](https://static1.squarespace.com/static/5662ee35e4b0c4c4329417a9/t/566349cce4b08654626c508d/1449347532516/)
+
+Dentre todas as raças habitantes de Azeroth sabe-se que a primeira a manipular A Luz foram os humanos, esses não tardaram em adorá-la e cultuá-la tendo em mente seu propósito: A Cura. 
+
+Os humanos dotados com o poder de manipular A Luz eram chamados de *Sacerdotes*, eles curavam e abençoavam, infundidos com o pode da Luz. Suas condutas eram integras e retas, tinham uma disciplina e fé na Luz inabalaveis.
+
+### Os Paladinos
+
+![Paladin icon](http://kronosgold.net/img/icon-paladin.png)
+
+Logo com descoberta da ameaça da Legião Ardente, os humanos viram na Luz uma esperança. Os sacerdotes não podiam ir a guerra contra os Orcs corrompidos, tendo em mente isso o Arcebispo Alonsus Faol decidiu então criar uma ordem mais militante a serviço da Luz, Os Cavaleiros do Punho de Prata, liderados pelo, até então guerreiro, Uther. Uther foi instruido nos caminhos da Luz e ensinado a usar a Luz para curar e abençoar como um sacerdote, so que com formidaveis habilidades de luta.
+
+> *Esse post ainda está em construção, então, me perdoe.. ^^*

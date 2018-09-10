@@ -1,9 +1,11 @@
 <header class="masthead" >
-    <h1 class="masthead-title"><a href="/">{{ site.title }} <span>&#39;blogs</span></a></h1>
+    <h1 class="masthead-title"><a href="{{ site.baseurl }}/">{{ site.title }} <span>&#39;blogs</span></a></h1>
     <nav class="masthead-nav">
       <!-- dentro da variavel global 'site' há o page, que retorna uma lista com todas as paginas -->
       {% for page in site.pages %} 
-        <a class="" href="{{ page.url }}">{{ page.title }}</a>
+        {% if page.title %}
+          <a class="" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
 </header>
